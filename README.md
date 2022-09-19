@@ -21,7 +21,7 @@ We are focusing this lesson on creating the HTML and CSS for the caclulator. Our
 - function buttons: <span style="background:#df974c;display:inline-block;padding:1px 5px;">#df974c</span>
 - function buttons on hover: <span style="background:#dfb07e;display:inline-block;padding:1px 5px;">#dfb07e</span>
 - function button active state: <span style="background:#dd8d37;display:inline-block;padding:1px 5px;">#dd8d37</span>
-- The overall width of this calculator is 400px.
+- The overall width of this calculator is 400px
 
 ## Suggested approach:
 
